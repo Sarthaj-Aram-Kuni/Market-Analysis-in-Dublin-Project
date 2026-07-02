@@ -6,3 +6,5 @@ A new Airbnb City Manager in Dublin wants to understand what guests are searchin
 The goal is to analyze guest demand and host supply, identify gaps that may be limiting bookings, and recommend ways to better match supply with demand. The analysis should also highlight any additional data that would help improve understanding of the Dublin market.
 
 ## Repository Structure
+File/Folder  | Description
+----------------------------------------------
