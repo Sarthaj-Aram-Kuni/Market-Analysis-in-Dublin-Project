@@ -8,4 +8,5 @@ The goal is to analyze guest demand and host supply, identify gaps that may be l
 ## Repository Structure
 |File/Folder  | Description|
 |---------------|-------------------------------|
-|1--------------|-------------------------------|
+|data|There are 2 datasets, searches.tsv - Contains a row for each set of searches that a user does for Dublin
+contacts.tsv - Contains a row for every time that an assigned visitor makes an inquiry for a stay in a listing in Dublin|
