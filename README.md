@@ -8,4 +8,5 @@ The goal is to analyze guest demand and host supply, identify gaps that may be l
 ## Repository Structure
 |File/Folder  | Description|
 |---------------|-------------------------------|
-|data|There are 2 datasets, searches.tsv - Contains a row for each set of searches that a user does for Dublincontacts.tsv - Contains a row for every time that an assigned visitor makes an inquiry for a stay listing in Dublin|
+|assets|There are 2 datasets, searches.tsv - Contains a row for each set of searches that a user does for Dublincontacts.tsv - Contains a row for every time that an assigned visitor makes an inquiry for a stay listing in Dublin|
+|dd|The main Jupyter Notebook containing all the data cleaning, exploration, and analysis code.|
